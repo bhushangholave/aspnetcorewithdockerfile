@@ -1,0 +1,12 @@
+/home/bhushan/dotnetapp/mysample
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=mysample
+--content-root=/home/bhushan/dotnetapp/mysample
+--file=/home/bhushan/dotnetapp/mysample/Pages/About.cshtml
+--file=/home/bhushan/dotnetapp/mysample/Pages/Contact.cshtml
+--file=/home/bhushan/dotnetapp/mysample/Pages/Error.cshtml
+--file=/home/bhushan/dotnetapp/mysample/Pages/Index.cshtml
+--file=/home/bhushan/dotnetapp/mysample/Pages/_Layout.cshtml
+--file=/home/bhushan/dotnetapp/mysample/Pages/_ValidationScriptsPartial.cshtml
+--file=/home/bhushan/dotnetapp/mysample/Pages/_ViewImports.cshtml
+--file=/home/bhushan/dotnetapp/mysample/Pages/_ViewStart.cshtml

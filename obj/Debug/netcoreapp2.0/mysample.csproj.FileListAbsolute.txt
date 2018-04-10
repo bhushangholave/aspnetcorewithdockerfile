@@ -1,0 +1,10 @@
+/home/bhushan/dotnetapp/mysample/bin/Debug/netcoreapp2.0/mysample.deps.json
+/home/bhushan/dotnetapp/mysample/bin/Debug/netcoreapp2.0/mysample.runtimeconfig.json
+/home/bhushan/dotnetapp/mysample/bin/Debug/netcoreapp2.0/mysample.runtimeconfig.dev.json
+/home/bhushan/dotnetapp/mysample/bin/Debug/netcoreapp2.0/mysample.dll
+/home/bhushan/dotnetapp/mysample/bin/Debug/netcoreapp2.0/mysample.pdb
+/home/bhushan/dotnetapp/mysample/obj/Debug/netcoreapp2.0/mysample.csproj.CoreCompileInputs.cache
+/home/bhushan/dotnetapp/mysample/obj/Debug/netcoreapp2.0/mysample.AssemblyInfoInputs.cache
+/home/bhushan/dotnetapp/mysample/obj/Debug/netcoreapp2.0/mysample.AssemblyInfo.cs
+/home/bhushan/dotnetapp/mysample/obj/Debug/netcoreapp2.0/mysample.dll
+/home/bhushan/dotnetapp/mysample/obj/Debug/netcoreapp2.0/mysample.pdb
